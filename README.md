@@ -2,7 +2,7 @@
 Code for making the P-trains impact prediction model
 
 ## 1
-### make_all_stops, make_all_stops_split, make_all_stops_allptcars and make_all_stops_allptcars_split
+### make_weather, make_all_stops, make_all_stops_split, make_all_stops_allptcars and make_all_stops_allptcars_split
 These are to be ran first, they do some preprocessing and split data into the periods of interest
 
 ## 2
